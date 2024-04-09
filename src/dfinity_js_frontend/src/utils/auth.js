@@ -1,7 +1,7 @@
 import { AuthClient } from "@dfinity/auth-client";
 
 // that is the url of the webapp for the internet identity.
-const IDENTITY_PROVIDER = `http://rdmx6-jaaaa-aaaaa-aaadq-cai.localhost:8080/#authorize`;
+const IDENTITY_PROVIDER = `http://ajuq4-ruaaa-aaaaa-qaaga-cai.localhost:8080/#authorize`;
 const MAX_TTL = 7 * 24 * 60 * 60 * 1000 * 1000 * 1000;
 // const IDENTITY_PROVIDER = `http://rdmx6-jaaaa-aaaaa-aaadq-cai.localhost:8080/`;
 

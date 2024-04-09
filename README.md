@@ -43,7 +43,6 @@ Introducing the Home Energy Efficiency Analyzer, a powerful tool designed to hel
 	# or run using npm with preset values
 	# registraionFee = 2_0000_0000 i.e 2 ICP tokens
 	sudo apt update
-    npm run deploy-backend
 
     ```
 

@@ -2,8 +2,8 @@ import { HttpAgent, Actor } from "@dfinity/agent";
 import { idlFactory as assessmentIDL } from "../../../declarations/dfinity_js_backend/dfinity_js_backend.did.js";
 import { idlFactory as ledgerIDL } from "../../../declarations/ledger_canister/ledger_canister.did.js";
 
-const ASSESSMENT_CANISTER_ID = "bd3sg-teaaa-aaaaa-qaaba-cai";
-const LEDGER_CANISTER_ID = "ryjl3-tyaaa-aaaaa-aaaba-cai";
+const ASSESSMENT_CANISTER_ID = "asrmz-lmaaa-aaaaa-qaaeq-cai";
+const LEDGER_CANISTER_ID = "aovwi-4maaa-aaaaa-qaagq-cai";
 const HOST = "http://localhost:8080";
 
 export async function getAssessmentCanister() {
